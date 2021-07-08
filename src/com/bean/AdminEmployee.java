@@ -9,6 +9,7 @@ public class AdminEmployee extends Employee {
 
 	
 	String branchName;
+	int val;
 
 	public String getBranchName() {
 		return branchName;
